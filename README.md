@@ -1,1 +1,3 @@
-# Internet
+{
+  "version": "1.0"
+}
